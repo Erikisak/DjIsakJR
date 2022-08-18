@@ -44,7 +44,7 @@ header .logo div{
 }
 
 .section1 {
-    background-image: url(/images/headphones.jpeg);
+    background-image: url(../images/headphones.jpeg);
     background-size: cover;
     height: 700px;
 }
